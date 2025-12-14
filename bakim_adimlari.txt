@@ -1,0 +1,4 @@
+1. Gereksiz dosyalar silinir
+2. Başlangıç programları kontrol edilir
+3. Fan ve toz temizliği yapılır
+4. Sistem performansı test edilir
